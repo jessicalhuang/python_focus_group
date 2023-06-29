@@ -16,3 +16,7 @@ variables.py: A Python script that shows how to create a variable in Python
 
 ## Session_05
 strings.py: A Python script that provides examples of strings and string functions
+
+## Session_06
+more_strings.py: A Python script that shows how to index, and manipulate strings
+session_06_extra: A Python script in which I practice using string functions
