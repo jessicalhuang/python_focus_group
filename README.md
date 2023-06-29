@@ -20,3 +20,10 @@ strings.py: A Python script that provides examples of strings and string functio
 ## Session_06
 more_strings.py: A Python script that shows how to index, and manipulate strings
 session_06_extra: A Python script in which I practice using string functions
+
+## Session_07
+numeric_types.py: A Python script that shows the different types of variables numerics can be stored as
+type_casting.py: A Python script that shows how to cast variable type
+expressions.py: A Python script that shows how to do mathematical expressions
+complex_math.py: A Python script that imports the function math to do additional mathematical expressions
+session_07_extra: A Python script in which I practice using mathematical expressions
