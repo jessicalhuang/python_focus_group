@@ -13,3 +13,6 @@ hello_world.py: A Python script that prints "Hello, World!" when run
 ## Session_04
 comments.py: A Python script that provides examples on how to comments
 variables.py: A Python script that shows how to create a variable in Python
+
+## Session_05
+strings.py: A Python script that provides examples of strings and string functions
