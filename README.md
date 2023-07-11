@@ -44,3 +44,6 @@ session_09_extra: A Python script in which I practice concepts in Session_09
 data_types.py: A Python script that goes through different data types in Python
 for_loops.py: A Python script that introduces for loops with examples
 while_loops.py: A Python script that introduces while loops with examples
+
+## Session_11
+conditionals.py: A Python script that introduces conditionals with examples
