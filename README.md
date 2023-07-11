@@ -33,3 +33,9 @@ tuples.py: A Python script that introduces tuples and some tuple functions
 lists.py: A Python script that introduces lists and some list functions
 ranges.py: A Python script that introduces how to use the range function
 session_08_extra: A Python script in which I practice making lists and tuples and using range
+
+## Session_09
+dictionaries.py: A Python script that introduces dictionaries
+set_types.py: A Python script that introduces sets and frozen sets
+booleans.py: A Python script that introduces booleans
+session_09_extra: A Python script in which I practice concepts in Session_09
