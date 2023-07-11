@@ -39,3 +39,8 @@ dictionaries.py: A Python script that introduces dictionaries
 set_types.py: A Python script that introduces sets and frozen sets
 booleans.py: A Python script that introduces booleans
 session_09_extra: A Python script in which I practice concepts in Session_09
+
+## Session_10
+data_types.py: A Python script that goes through different data types in Python
+for_loops.py: A Python script that introduces for loops with examples
+while_loops.py: A Python script that introduces while loops with examples
