@@ -27,3 +27,9 @@ type_casting.py: A Python script that shows how to cast variable type
 expressions.py: A Python script that shows how to do mathematical expressions
 complex_math.py: A Python script that imports the function math to do additional mathematical expressions
 session_07_extra: A Python script in which I practice using mathematical expressions
+
+## Session_08
+tuples.py: A Python script that introduces tuples and some tuple functions
+lists.py: A Python script that introduces lists and some list functions
+ranges.py: A Python script that introduces how to use the range function
+session_08_extra: A Python script in which I practice making lists and tuples and using range
