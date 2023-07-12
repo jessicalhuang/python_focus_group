@@ -47,3 +47,6 @@ while_loops.py: A Python script that introduces while loops with examples
 
 ## Session_11
 conditionals.py: A Python script that introduces conditionals with examples
+
+## Session_12
+functions.py: A Python script that introduces functions with examples
